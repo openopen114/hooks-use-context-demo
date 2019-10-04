@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hooks-use-context-demo/static/css/main.b100e6da.chunk.css",
+    "main.js": "/hooks-use-context-demo/static/js/main.a05311b7.chunk.js",
+    "main.js.map": "/hooks-use-context-demo/static/js/main.a05311b7.chunk.js.map",
+    "runtime-main.js": "/hooks-use-context-demo/static/js/runtime-main.0bd338c7.js",
+    "runtime-main.js.map": "/hooks-use-context-demo/static/js/runtime-main.0bd338c7.js.map",
+    "static/js/2.55d7c2a8.chunk.js": "/hooks-use-context-demo/static/js/2.55d7c2a8.chunk.js",
+    "static/js/2.55d7c2a8.chunk.js.map": "/hooks-use-context-demo/static/js/2.55d7c2a8.chunk.js.map",
+    "index.html": "/hooks-use-context-demo/index.html",
+    "precache-manifest.ed97cfc753c3910fc6164699590b2176.js": "/hooks-use-context-demo/precache-manifest.ed97cfc753c3910fc6164699590b2176.js",
+    "service-worker.js": "/hooks-use-context-demo/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/hooks-use-context-demo/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bd338c7.js",
+    "static/js/2.55d7c2a8.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.a05311b7.chunk.js"
+  ]
+}
